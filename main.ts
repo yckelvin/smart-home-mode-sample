@@ -8,11 +8,11 @@ input.onButtonPressed(Button.AB, function () {
 let light2 = 0
 let rainfall = 0
 let Mode = ""
-let wifi_name = "wifi_name"
-let password = "password"
+let wifi_name = "izowifi"
+let password = "izo1234@"
 let iot_id = "iot_id"
 let iot_pwd = "iot_pwd"
-let topic_0 = "i8GvL6wnR"
+let topic_0 = "topic_id"
 microIoT.microIoT_initDisplay()
 microIoT.microIoT_showUserText(0, "INIT DEVICE")
 microIoT.microIoT_showUserText(1, "SETUP WIFI")
